@@ -12,14 +12,4 @@ build/
 .idea/libraries/
 .idea/scopes/
 
-*.apk
-*.ap_
-*.dex
-*.class
-
-bin/
-gen/
-.classpath
-.project
-
 proguard/
